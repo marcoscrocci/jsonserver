@@ -1,0 +1,37 @@
+{
+  "dados": {
+    "totalCount": 2,
+    "itens": [
+      {
+        "codigoPrestador": "10397710",
+        "nomePrestador": "TESTE001",
+        "vigencia": "01/10/2022",
+        "itemPrestador": "40901106",
+        "descricaoPrestador": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
+        "itemOperadora": "40901106",
+        "descricaoOperadora": "Ecodopplercardiograma Transtorácico",
+        "codigoRede": 47,
+        "rede": "REDE TOP 100",
+        "valorGeral": null,
+        "valorAmbulatorial": 330.37,
+        "valorInternacao": null,
+        "valorEmergencia": 445.29
+      },
+      {
+        "codigoPrestador": "10397710",
+        "nomePrestador": "TESTE002",
+        "vigencia": "01/10/2022",
+        "itemPrestador": "40901076",
+        "descricaoPrestador": "ECODOPPLERCARDIOGRAMA TRANSTORACICO",
+        "itemOperadora": "40901076",
+        "descricaoOperadora": "Ecodopplercardiograma Com Estresse Farmacológico",
+        "codigoRede": 47,
+        "rede": "REDE TOP 100",
+        "valorGeral": null,
+        "valorAmbulatorial": 664.18,
+        "valorInternacao": null,
+        "valorEmergencia": 864.83
+      }
+    ]
+  }
+}
